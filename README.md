@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethri Weerakoon</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHristinchet0%2FHristinchet0%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw19xGT-m-kTtaESxnJ7SIYp&ust=1733048360425000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC89rjqg4oDFQAAAAAdAAAAABAE" alt="madusha-gunawardhana" /></p>
+<p><img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHristinchet0%2FHristinchet0%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw19xGT-m-kTtaESxnJ7SIYp&ust=1733048360425000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC89rjqg4oDFQAAAAAdAAAAABAE" alt="nethriweerakoon" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethriweerakoon&label=Profile%20views&color=0e75b6&style=flat" alt="nethriweerakoon" /> </p>
 
